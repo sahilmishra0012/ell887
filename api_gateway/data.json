@@ -1,0 +1,63 @@
+{
+    "project_id": "aaria-23455",
+    "model_path": "gs://imgcls/Intel/ImageClass/",
+    "question_id": 
+    "client_id": 
+    ""
+    "records": [
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10004.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10004.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10005.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10005.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10012.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10012.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10013.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10013.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10017.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10017.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10021.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10021.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_1003.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_1003.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10034.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10034.jpg",
+            "Height": 150,
+            "Width": 150
+        },
+        {
+            "Image ID": "datasets_111880_269359_seg_pred_seg_pred_10038.jpg",
+            "Image URI": "gs://imgcls/predictions/datasets_111880_269359_seg_pred_seg_pred_10038.jpg",
+            "Height": 150,
+            "Width": 150
+        }
+    ]
+}

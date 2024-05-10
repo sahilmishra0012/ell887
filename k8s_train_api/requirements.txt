@@ -1,0 +1,11 @@
+Flask==1.0.2
+oauth2client
+pyjwt
+python-dotenv
+python-jose
+flask-cors
+six
+kubernetes==11.0.0
+google-cloud-container==0.4.0
+urllib3
+gunicorn==20.0.4

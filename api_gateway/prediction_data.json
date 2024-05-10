@@ -1,0 +1,35 @@
+{
+    
+    "model_path": "gs://imgcls/Intel/ImageClass/",
+    "question": {
+        "options": [
+            {
+                "option_name": "cat",
+                "option_id": "b2e598e8-bffe-45d9-a8a0-b36401b16d62"
+            },
+            {
+                "option_name": "dog",
+                "option_id": "46417949-e954-4c39-99ef-c074de60bcd2"
+            }
+        ],
+        "required": true,
+        "question_metadata": null,
+        "created_at": 1595228152.477,
+        "question_number": 2,
+        "option_type": "dropdown",
+        "question_id": "4a287fdb-f93e-4df7-8c0a-b6b398227f82",
+        "question": "q2",
+        "created_by": "puneet@labellerr.com",
+        "answer": null
+    },
+    "records": [
+        {
+            "fileId": "datasets_111880_269359_seg_pred_seg_pred_10012.jpg",
+            "fileLink": "https://imgcls.storage.googleapis.com/predictions/datasets_111880_269359_seg_pred_seg_pred_10012.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=topsecretdontleak@aaria-263910.iam.gserviceaccount.com/20200810/auto/storage/goog4_request&X-Goog-Date=20200810T054435Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&x-goog-signature=68f9dd010baf595732770bb608c4c3bd514730f4404c98e3f7ed15c8681a4d8fd573686eb30cf487e71cfec586c9dfccaf3df087f8ec9ab3ccf0e8e9f3e7c03f27cda715cd6dd8b5c7c630fa011f1971920c8aacf6ce4f869f7393a0f3a63783056dc2d31644987e6ecdea445e3112425373ce74175a9821b3b9d7f87afdd3349271f127f1f20e4e7d2d0e3eac361a06088807587d042e45b171e4d1073bae59e6f1b2f0a1f43c2f68b8569e66b18acd08335c8cd87ca7d0a6d3c6832f8cead46389d0297495286fc544c8ceac0b603c6ab28c79f0e95dc56438c04005a2d756cda72fd3d682192d6540dc183b832b91e8ce670eadff2046cca83aafedae0507"
+        },
+        {
+            "fileId": "datasets_111880_269359_seg_pred_seg_pred_10017.jpg",
+            "fileLink": "https://imgcls.storage.googleapis.com/predictions/datasets_111880_269359_seg_pred_seg_pred_10017.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=topsecretdontleak@aaria-263910.iam.gserviceaccount.com/20200810/auto/storage/goog4_request&X-Goog-Date=20200810T054411Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&x-goog-signature=8de3bf4fa24bf5c8f77c69efa27d156abd27cf410d0c07ca33382bd9b4b25e8f19a17b81437fc6d1f597188e50ac6a97c40903fd867f6eb7a724aa5a8e2ea6b7b9a2989187d79ec806df918320affb2f27d1d77ad6cda8ebf3a75ad6ef1fb68fec50fab64062f145055ef2d36c25c02b4ebe6179d1327548704b90a2f6f112e560cfc8b88bcce455b0812828f179ba866138edb95db81943a2f37331ca3d7034d23c23ca55fd2c307feac0399df6ce82fdb147b70068e1b9a1947243d01abf7073afe4469fd7192c4b02bb726b34afc785f52163e557f1a3bc95c64fbe26bd7c4d1ba48ef5300a0fbf52c7d10159a411793e8bdb17a6a690addb573bec86a322"
+        }
+    ]
+}

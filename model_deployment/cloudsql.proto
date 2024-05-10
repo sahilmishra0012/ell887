@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+import "google/protobuf/any.proto";
+
+message QueryRequest {
+    repeated QueryStmt query_stmt_list = 1;
+};
+
+message QueryStmt{
+  string query = 1;
+  string id = 2;
+}
+
+message QueryStmtResult{
+  string result = 1;
+  string id = 2;
+}
+
+message ResultSet {
+  map<string, string> query_stmt_result = 1;
+};
+
+service CloudSql {
+  rpc QueryCloudSql (QueryRequest) returns (ResultSet);
+};

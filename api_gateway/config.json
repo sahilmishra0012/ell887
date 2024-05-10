@@ -1,0 +1,13 @@
+{
+    "routeTargets": {
+        "hello": "https://api-gateway2-nzynhghimq-uc.a.run.app"
+    },
+    "grpc_db_address": "cloudsqlservice-ca25pynkyq-uc.a.run.app",
+    "error_codes": {
+        "1062": "ALREADY EXISTS"
+    },
+    "auth0": {
+        "AUTH0_DOMAIN": "labellerr.us.auth0.com",
+        "API_AUDIENCE": "https://api.labellerr.com/"
+    }
+}

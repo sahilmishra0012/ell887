@@ -1,0 +1,22 @@
+{
+    "grpc_db_address": "cloudsqlservice-ca25pynkyq-uc.a.run.app",
+    "error_codes": {
+        "1062": "ALREADY EXISTS",
+        "1064": "PARSE ERROR"
+    },
+    "sql": {
+        "model_id_column": "model_id",
+        "version_column": "version",
+        "endpoint_column": "endpoint",
+        "model_loss_column": "model_loss",
+        "model_val_loss_column": "model_validation_loss",
+        "model_metric_column": "model_metric",
+        "model_val_metric_column": "model_validation_metric",
+        "data_type_column":"data_type",
+        "model_type_column": "model_type",
+        "question_id_column": "question_id",
+        "model_algo_id_column": "model_algo_id",
+        "is_active_column": "is_active"
+
+    }
+}

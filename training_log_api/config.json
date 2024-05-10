@@ -1,0 +1,11 @@
+{
+    "grpc_db_address": "cloudsqlservice-ca25pynkyq-uc.a.run.app",
+    "error_codes": {
+        "1062": "ALREADY EXISTS",
+        "1064": "PARSE ERROR"
+    },
+    "sql": {
+        "model_id_column": "model_id",
+        "version_column": "version"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "automl_deploy",
+  "version": "1.0.0",
+  "description": "AutoML deploy for Labellerr ",
+  "main": "apideploy.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node apideploy.js"
+  },
+  "author": "Shiva Thavani",
+  "license": "ISC"
+}
