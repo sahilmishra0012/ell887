@@ -1,4 +1,4 @@
-# Image_Classification_Labellerr
+# Image_Classification_
 
 ## Entry Point Command:
 
